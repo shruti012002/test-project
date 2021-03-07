@@ -1,4 +1,3 @@
-#coding solution
 #include <stdio.h>
 
 int main(void) {
